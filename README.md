@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ![Logo](https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/header/mmtLogoWhite.png)
 
@@ -154,3 +155,6 @@ To run this project, you will need to add the following environment variables to
 
 
 - GITHUB - https://github.com/sachanarpit/make-my-trip
+=======
+# make-my-trip
+>>>>>>> f841b692466af75733a3db9607a28b6b33f9cbdb
